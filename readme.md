@@ -1,6 +1,6 @@
 # Create Dataset with GPT-4 Turbo
 
-**Notes:** the code needs to be tweaked if you're using something else than a 'text' field first.
+**Notes:** the code needs to be tweaked if you're using something else than a 'text' field.
 
 ## Overview
 This script processes a CSV file containing any field(s) that you set and uses the OpenAI GPT-4 API to create new fields. It is useful to generate a dataset for fine-tuning. I.e. using a text field to generate summaries, keywords or other to another field with a custom system template.
